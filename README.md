@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Adarsh07Maurya/leetcode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Adarsh07Maurya/leetcode/tree/master/0016-3sum-closest) |
 | [1791-richest-customer-wealth](https://github.com/Adarsh07Maurya/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Adarsh07Maurya/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adarsh07Maurya/leetcode/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Adarsh07Maurya/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
