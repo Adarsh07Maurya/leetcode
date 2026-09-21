@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2639-separate-the-digits-in-an-array](https://github.com/Adarsh07Maurya/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
+| [3811-reverse-degree-of-a-string](https://github.com/Adarsh07Maurya/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adarsh07Maurya/leetcode/tree/master/0020-valid-parentheses) |
+| [3811-reverse-degree-of-a-string](https://github.com/Adarsh07Maurya/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
