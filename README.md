@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adarsh07Maurya/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Adarsh07Maurya/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Adarsh07Maurya/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarsh07Maurya/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adarsh07Maurya/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Adarsh07Maurya/leetcode/tree/master/0016-3sum-closest) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adarsh07Maurya/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarsh07Maurya/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adarsh07Maurya/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh07Maurya/leetcode/tree/master/0001-two-sum) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarsh07Maurya/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
