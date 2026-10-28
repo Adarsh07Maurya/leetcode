@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adarsh07Maurya/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/Adarsh07Maurya/leetcode/tree/master/0016-3sum-closest) |
+| [0202-happy-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Adarsh07Maurya/leetcode/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh07Maurya/leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0202-happy-number) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarsh07Maurya/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
 |  |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Adarsh07Maurya/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
