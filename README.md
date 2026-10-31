@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Adarsh07Maurya/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Adarsh07Maurya/leetcode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Adarsh07Maurya/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Adarsh07Maurya/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarsh07Maurya/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adarsh07Maurya/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh07Maurya/leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0202-happy-number) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Adarsh07Maurya/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarsh07Maurya/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
 |  |
