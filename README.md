@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh07Maurya/leetcode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Adarsh07Maurya/leetcode/tree/master/0016-3sum-closest) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Adarsh07Maurya/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1791-richest-customer-wealth](https://github.com/Adarsh07Maurya/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adarsh07Maurya/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh07Maurya/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Adarsh07Maurya/leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Adarsh07Maurya/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Recursion
 |  |
 | ------- |
