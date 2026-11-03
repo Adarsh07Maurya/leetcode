@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Adarsh07Maurya/leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Adarsh07Maurya/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0509-fibonacci-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0509-fibonacci-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adarsh07Maurya/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Adarsh07Maurya/leetcode/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adarsh07Maurya/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0509-fibonacci-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
 | ------- |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0202-happy-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
