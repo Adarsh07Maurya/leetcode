@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Adarsh07Maurya/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarsh07Maurya/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adarsh07Maurya/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adarsh07Maurya/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Adarsh07Maurya/leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Adarsh07Maurya/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adarsh07Maurya/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
