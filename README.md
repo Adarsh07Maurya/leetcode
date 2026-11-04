@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Adarsh07Maurya/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Adarsh07Maurya/leetcode/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/Adarsh07Maurya/leetcode/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Adarsh07Maurya/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Adarsh07Maurya/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3811-reverse-degree-of-a-string](https://github.com/Adarsh07Maurya/leetcode/tree/master/3811-reverse-degree-of-a-string) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Adarsh07Maurya/leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Adarsh07Maurya/leetcode/tree/master/0205-isomorphic-strings) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Adarsh07Maurya/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Adarsh07Maurya/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
