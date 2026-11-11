@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Adarsh07Maurya/leetcode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Adarsh07Maurya/leetcode/tree/master/0016-3sum-closest) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Adarsh07Maurya/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0989-add-to-array-form-of-integer](https://github.com/Adarsh07Maurya/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Adarsh07Maurya/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1791-richest-customer-wealth](https://github.com/Adarsh07Maurya/leetcode/tree/master/1791-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adarsh07Maurya/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Adarsh07Maurya/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/Adarsh07Maurya/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Adarsh07Maurya/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
