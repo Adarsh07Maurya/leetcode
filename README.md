@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Adarsh07Maurya/leetcode/tree/master/0050-powx-n) |
+| [0172-factorial-trailing-zeroes](https://github.com/Adarsh07Maurya/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Adarsh07Maurya/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Adarsh07Maurya/leetcode/tree/master/0509-fibonacci-number) |
